@@ -15,11 +15,11 @@ Basic Types
 
 [Boolean](https://github.com/sarveshhome/TypeScript/blob/master/TypeScript/01TypeScript/01Boolean.ts) _
 [Number](http://link) 
-[String](http://link) _
-[Array](http://link) 
-[Tuple](http://link) 
-[Enum](http://link) 
-[Any](http://link) 
+[String](http://link) <br />
+[Array](http://link) <br />
+[Tuple](http://link) <br />
+[Enum](http://link) <br />
+[Any](http://link) <br />
 [Void](http://link) 
 [Null and Undefined](http://link)__
 [Never](http://link)__
