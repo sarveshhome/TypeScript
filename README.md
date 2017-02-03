@@ -13,16 +13,16 @@
 
 Basic Types
 
-[Boolean](https://github.com/sarveshhome/TypeScript/blob/master/TypeScript/01TypeScript/01Boolean.ts) _
-[Number](http://link) 
+[Boolean](https://github.com/sarveshhome/TypeScript/blob/master/TypeScript/01TypeScript/01Boolean.ts) <br />
+[Number](http://link) <br />
 [String](http://link) <br />
 [Array](http://link) <br />
 [Tuple](http://link) <br />
 [Enum](http://link) <br />
 [Any](http://link) <br />
-[Void](http://link) 
-[Null and Undefined](http://link)__
-[Never](http://link)__
-[Type assertions](http://link)__
+[Void](http://link) <br />
+[Null and Undefined]<br />
+[Never](http://link)<br />
+[Type assertions](http://link)<br />
 
 
