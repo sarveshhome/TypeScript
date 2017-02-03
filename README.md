@@ -21,7 +21,7 @@ Basic Types
 [Enum](http://link) <br />
 [Any](http://link) <br />
 [Void](http://link) <br />
-[Null and Undefined]<br />
+[Null and Undefined](http://link)<br />
 [Never](http://link)<br />
 [Type assertions](http://link)<br />
 
