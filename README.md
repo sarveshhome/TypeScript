@@ -1,11 +1,11 @@
 
 #TypeScript
 
-npm install -g typescript
-tsc -v
+`npm install -g typescript`
 
+`tsc -v`
 
-tsc main.ts --watch
+`tsc main.ts --watch`
 
 ####Compiles all .ts files in the current folder
 tsc --watch
