@@ -1,0 +1,10 @@
+E:\PrProjects\TypeScriptFirst\TypeScriptFirst\bin\TypeScriptFirst.dll.config
+E:\PrProjects\TypeScriptFirst\TypeScriptFirst\bin\TypeScriptFirst.dll
+E:\PrProjects\TypeScriptFirst\TypeScriptFirst\bin\TypeScriptFirst.pdb
+E:\PrProjects\TypeScriptFirst\TypeScriptFirst\obj\Debug\TypeScriptFirst.dll
+E:\PrProjects\TypeScriptFirst\TypeScriptFirst\obj\Debug\TypeScriptFirst.pdb
+D:\Sarvesh\Sarvesh\Practice\TypeScriptFirst\TypeScriptFirst\bin\TypeScriptFirst.dll.config
+D:\Sarvesh\Sarvesh\Practice\TypeScriptFirst\TypeScriptFirst\bin\TypeScriptFirst.dll
+D:\Sarvesh\Sarvesh\Practice\TypeScriptFirst\TypeScriptFirst\bin\TypeScriptFirst.pdb
+D:\Sarvesh\Sarvesh\Practice\TypeScriptFirst\TypeScriptFirst\obj\Debug\TypeScriptFirst.dll
+D:\Sarvesh\Sarvesh\Practice\TypeScriptFirst\TypeScriptFirst\obj\Debug\TypeScriptFirst.pdb
