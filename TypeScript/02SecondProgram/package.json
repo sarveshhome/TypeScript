@@ -1,0 +1,23 @@
+{
+  "name": "typescriptobjectoriented",
+  "version": "1.0.0",
+  "description": "typescriptobject roiented",
+  "main": "typescriptobjectoriented.js",
+  "scripts": {
+    "start": "concurrent \"npm run tsc:w\" \"npm run lite\" ",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tyhpescript",
+    "object",
+    "oriented"
+  ],
+  "author": "sarvesh.mca@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.1.6"
+  }
+}
