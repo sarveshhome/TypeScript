@@ -5,7 +5,7 @@ for (var i = 0; i < arr.length; i++) {
 }
 console.log("\n");
 /**generic array */
-var arrList = [9, 8, 7];
+var arrList = [9, 8, 6];
 arrList.forEach(function (element) {
     console.log(element);
 });

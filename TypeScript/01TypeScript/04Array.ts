@@ -11,9 +11,9 @@ console.log("\n")
 
 /**generic array */
 
-
-let arrList:Array<number> = [9,8,7];
+let arrList:Array<number> = [9,8,6];
 
 arrList.forEach(element => {
     console.log(element);
 });
+
